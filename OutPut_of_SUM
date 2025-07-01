@@ -48,19 +48,19 @@ using l_two_di 1 ---> @fnl using control_digit 9 and pos as  0 with cd 1
 counter  control digit  position  returned number 
   0             9          0         8
 
-         [9]9 - 98 = 1    ----> 9 - 1 = (8) || 
+         [9]9 - 98 = ([1])    ----> 9 - 1 = (8) || 
 
 using l_two_di 7 ---> @fnl using control_digit 6 and pos as  6 with cd 7
 counter  control digit  position  returned number 
   1             6          6         8
 
-         [6]9 - 62 = 7    ----> 6 - 7 = (8) || 
+         [6]9 - 62 = ([7])    ----> 6 - 7 = (8) || 
 
 using m 9 of 18 ---> @fnl using control_digit 1 and pos as  8 with cd 9
 counter  control digit  position  returned number 
   2             1          8         1
 
-       [1]9 - 1 = 18         1 - 9 = (1) --> 
+       [1]9 - 1 = 18 -->([9])         1 - 9 = (1) --> 
                                      ----> sum as first sum 0 >> 9 ||  
 
 last sum of final table 17 by adding all numbers in '()' eg 1+8+8=17
