@@ -1,4 +1,4 @@
-# Sum_Table_0-9
+# Sum_Table_0-8
 Adding the digits of a number
 
 
